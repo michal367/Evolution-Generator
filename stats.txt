@@ -1,0 +1,22 @@
+INPUT:
+Width (1-200): 10
+Height (1-200): 10
+Jungle Ratio (0.00 - 1.00): 0.4
+Start Energy: 200
+Move Energy: 10
+Plant Energy: 40
+Animal Amount 5
+Plants Amount: 5
+Timer (ms): 500
+Simulation Amount: 1
+
+
+OUTPUT:
+Simulation: 1
+Amount of Eras: 4
+Avg Animals Amount: 6.25
+Avg Plants Amount: 11.0
+Dominant genotype: 00012222233344445555566666677777
+Avg Animals Energy: 227.0
+Avg Animals Lifetime: 0.0
+Avg Animals Avg Children Amount: 0.0
