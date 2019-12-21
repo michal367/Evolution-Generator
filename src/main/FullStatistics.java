@@ -38,9 +38,7 @@ public class FullStatistics {
         sumPlantsAmount += singleStats.plantAmount;
 
         sumEnergyAvg += singleStats.animalsAverageEnergy;
-        System.out.println(sumEnergyAvg);
         sumChildrenAvg += singleStats.animalsAverageChildrenAmount;
-        System.out.println(sumChildrenAvg);
 
         updateGenotype();
     }
