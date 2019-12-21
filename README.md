@@ -1,5 +1,5 @@
 # Evolution Generator
-Objected Oriented Programming Project
+Object Oriented Programming Project
 
 ## Description
 Program shows evolution of animals through out ther eras. It shows rendered map, statistics of world, selected animal statistics and animals with dominant genotype. Statistics that sum up whole simulation can be saved to stats.txt.
