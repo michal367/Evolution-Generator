@@ -127,4 +127,7 @@ public class AnimalStatisticsPanel extends JPanel {
     public void clearStats(){
         animalStatsPanel.clearStats();
     }
+    public void clearFollowedAnimal(){
+        followedAnimal = null;
+    }
 }

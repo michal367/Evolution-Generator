@@ -205,6 +205,7 @@ public class SimulationWidget extends JPanel{
     public void clearAnimalStats(){
         animalStatsPanel.clearCombobox();
         animalStatsPanel.clearStats();
+        animalStatsPanel.clearFollowedAnimal();
     }
 
     public void pause(){
